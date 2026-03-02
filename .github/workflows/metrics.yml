@@ -18,7 +18,7 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           user: LiangquanLi930
           template: classic
-          base: header, repositories
+          base: repositories
           output_action: commit
           filename: metrics-stats.svg
           config_timezone: Asia/Shanghai
