@@ -10,6 +10,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 <a href="https://github.com/liangquanLi930">
-<img src="./metrics.svg" alt="Liangquan Li GitHub Metrics"/>
+<img height="120px" src="./metrics-stats.svg" alt="Liangquan Li GitHub Stats"/>
+<img height="120px" src="./metrics-langs.svg" alt="Liangquan Li Top Languages"/>
 </a>
 
